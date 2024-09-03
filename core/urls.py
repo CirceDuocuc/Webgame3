@@ -25,3 +25,5 @@ urlpatterns = [
     path('recuperar_contrasena/', recuperar_contrasena, name="recuperar_contraseña"),
     path('register/', register, name="register"),
 ]
+
+probando
